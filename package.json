@@ -1,0 +1,27 @@
+{
+  "name": "goddiscord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "nolyn",
+  "license": "ISC",
+  "dependencies": {
+    "@anishshobith/deeptype": "^1.1.0",
+    "amethyste-api": "^1.1.5",
+    "anilist-node": "^1.11.2",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "glob": "^7.2.0",
+    "jimp": "^0.16.1",
+    "mathjs": "^10.4.0",
+    "moment": "^2.29.2",
+    "moment-timezone": "^0.5.34",
+    "mysql": "^2.18.1",
+    "nekos.life": "^2.0.9",
+    "request": "^2.88.2"
+  }
+}
